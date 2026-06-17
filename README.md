@@ -1,3 +1,7 @@
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvidia-nscq-570_570.211.01-1_amd64.deb
+
+---
+
 wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvidia-fabricmanager-570_570.211.01-1_amd64.deb
 
 ---
