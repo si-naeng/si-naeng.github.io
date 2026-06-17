@@ -53,6 +53,7 @@ WHERE PROC_DEF_ID_ LIKE '%migConfiguration%';
 
 COMMIT;
 
+---
 
 SELECT COUNT(*) FROM ACT_RU_EXECUTION
 WHERE PROC_DEF_ID_ LIKE '%migConfiguration%';
