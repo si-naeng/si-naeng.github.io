@@ -1,3 +1,8 @@
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvidia-fabricmanager-570_570.211.01-1_amd64.deb
+
+---
+
+
 Step 2: Resolve “in process” issues by clearing stuck data
 Connect to PostgreSQL and execute:
 DO $$
